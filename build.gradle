@@ -1,4 +1,4 @@
-buildscript {
+buildscript { 1
     ext.serenityCoreVersion = '3.3.0'
     repositories {
         mavenCentral()
