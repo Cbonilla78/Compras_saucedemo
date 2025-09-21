@@ -9,9 +9,9 @@
 #### Framework: gherkin, cucumber, Junit, SerenityBDD, selenium
 #### Framework adicionales: librerias lombok, Faker, SonarLink, cucumber for java, json
 #### Lenguaje programacion: Java
-#### version gradle: gradle-8.0.2
-#### OPEN_JDK Version 17.0.12
-#### Driver: Edge version  129.0.2792.52 
+#### version gradlew: gradle-8.0.2
+#### OPEN_JDK Version 17.0.11
+#### Driver: Edge version  140.0.3485.81 
 #### ID: Intellij IDEA community Edition 2023.1.7
 ##### ------------------------------------------------------------------------------------------------------
 # PASOS PARA LA EJECUCIÓN
